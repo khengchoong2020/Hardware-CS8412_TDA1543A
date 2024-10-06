@@ -1,0 +1,2 @@
+# Hardware-CS8412_TDA1543A
+CS8412 and NOS 4XTDA1543A Active Op-Amp DAC output
